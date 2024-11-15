@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="1.20.1"
+license="GPL-3"
+[[mods]]
+modId="createtaczguns"
+version="1.20.1-1.0.0"
+displayName="Create Tacz Guns"
+authors="lyx2333"
+description='''Use create to craft Timeless and Classics Zero guns'''
+[[dependencies."${mod_id}"]]
+modId="forge"
+mandatory=true
+versionRange="${forge_version_range}"
+ordering="NONE"
+side="BOTH"
+[[dependencies."${mod_id}"]]
+modId="minecraft"
+mandatory=true
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
