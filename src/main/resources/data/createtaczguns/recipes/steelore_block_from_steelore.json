@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "createtaczguns:steelore"
+    }
+  },
+  "result": {
+    "item": "createtaczguns:steelore_block"
+  }
+}

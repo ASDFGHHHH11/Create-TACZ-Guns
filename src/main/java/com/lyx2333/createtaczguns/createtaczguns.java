@@ -1,5 +1,6 @@
 package com.lyx2333.createtaczguns;
 
+import com.lyx2333.createtaczguns.block.ModBlocks;
 import com.lyx2333.createtaczguns.item.ModCreativeModTabs;
 import com.lyx2333.createtaczguns.item.ModItems;
 import com.mojang.logging.LogUtils;
@@ -23,11 +24,17 @@ public class createtaczguns
         ModCreativeModTabs.register(modEventbus);
 
         ModItems.register(modEventbus);
+        ModBlocks.register(modEventbus);
 
     }
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.test);
+            event.accept(ModItems.steelore);
+            event.accept(ModItems.blackironite);
+            event.accept(ModItems.wire);
+            event.accept(ModItems.raw_blackironite);
+            event.accept(ModItems.raw_steelore);
+            event.accept(ModItems.thickironbars);
         }
     }
 }

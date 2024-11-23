@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "createtaczguns:raw_steelore_block"
+    }
+  ],
+  "result": {
+    "item": "createtaczguns:raw_steelore",
+    "count": 9
+  }
+}

@@ -1,3 +1,14 @@
 {
+  "item.createtaczguns.steelore": "Steel Ore",
+  "item.createtaczguns.blackironite":"Black Iron Ite",
+  "item.createtaczguns.wire":"Wire",
+  "item.createtaczguns.raw_blackironite":"Raw Black Iron Ite",
+  "item.createtaczguns.raw_steelore":"Raw Steel Ore",
+  "item.createtaczguns.thickironbars":"Thick Iron Bars",
+  "block.createtaczguns.steelore_block": "Steel Ore Block",
+  "block.createtaczguns.blackironite_block": "Black Iron Ite Block",
+  "block.createtaczguns.raw_steelore_block": "Raw Steel Ore Block",
+  "block.createtaczguns.raw_blackironite_block": "Raw Black Iron Ite Block",
 
+  "creativetab.createtaczguns_tab": "Create:TACZ Guns"
 }

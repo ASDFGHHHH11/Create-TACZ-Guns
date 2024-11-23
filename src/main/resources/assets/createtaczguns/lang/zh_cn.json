@@ -1,3 +1,14 @@
 {
+  "item.createtaczguns.steelore": "钢锭",
+  "item.createtaczguns.blackironite":"黑铁",
+  "item.createtaczguns.wire":"铁丝",
+  "item.createtaczguns.raw_blackironite":"粗黑铁",
+  "item.createtaczguns.raw_steelore":"粗钢",
+  "item.createtaczguns.thickironbars":"粗铁板条",
+  "block.createtaczguns.steelore_block": "钢块",
+  "block.createtaczguns.blackironite_block": "黑铁块",
+  "block.createtaczguns.raw_steelore_block": "粗钢块",
+  "block.createtaczguns.raw_blackironite_block": "粗黑铁块",
 
+  "creativetab.createtaczguns_tab": "Create:TACZ Guns"
 }

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtiem": 100,
+  "exerience": 0.7,
+  "group": "steelore",
+  "ingredient": {
+    "item": "createtaczguns:raw_steelore"
+  },
+  "result": "createtaczguns:steelore"
+}

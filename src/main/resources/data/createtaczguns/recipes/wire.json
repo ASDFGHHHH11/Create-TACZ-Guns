@@ -1,0 +1,45 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:iron_sheet"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "createtaczguns:wire"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "create:iron_sheet"
+        }
+      ],
+      "processingTime": 50,
+      "results": [
+        {
+          "item": "createtaczguns:thickironbars"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createtaczguns:thickironbars"
+        }
+      ],
+      "processingTime": 50,
+      "results": [
+        {
+          "item": "createtaczguns:wire"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "createtaczguns:thickironbars"
+  }
+}

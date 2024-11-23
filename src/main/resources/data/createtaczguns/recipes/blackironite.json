@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtiem": 100,
+  "exerience": 0.7,
+  "group": "blackironite",
+  "ingredient": {
+    "item": "createtaczguns:raw_blackironite"
+  },
+  "result": "createtaczguns:blackironite"
+}
+

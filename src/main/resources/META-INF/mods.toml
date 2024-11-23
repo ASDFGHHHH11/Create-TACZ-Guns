@@ -19,3 +19,9 @@ mandatory=true
 versionRange="${minecraft_version_range}"
 ordering="NONE"
 side="BOTH"
+[[dependencies.modid]]
+modId="create"
+mandatory=true
+versionRange="[0.5.1.i,)"
+ordering="NONE"
+side="BOTH"

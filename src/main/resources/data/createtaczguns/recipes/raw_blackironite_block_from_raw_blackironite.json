@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "createtaczguns:raw_blackironite"
+    }
+  },
+  "result": {
+    "item": "createtaczguns:raw_blackironite_block"
+  }
+}
